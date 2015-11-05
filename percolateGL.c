@@ -1,6 +1,4 @@
-// 
-// Torbert, 30 October 2013
-// 
+//  
 // gcc -lGLU -lglut glshell.c
 // 
 #include <stdio.h>
