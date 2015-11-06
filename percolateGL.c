@@ -1,5 +1,5 @@
 //  
-// gcc -lGLU -lglut glshell.c
+// gcc glshell.c -lGLU -lglut -lGL
 // 
 #include <stdio.h>
 #include <GL/glut.h>
